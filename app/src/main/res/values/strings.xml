@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="Search">Search</string>
+    <string name="error_message">Failed to get result! please try again</string>
+</resources>
